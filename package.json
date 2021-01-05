@@ -16,7 +16,7 @@
         "static": "rimraf docs && npm run build && npm run generate"
     },
     "dependencies": {
-        "axios": "^0.16.1",
+        "axios": "^0.21.1",
         "cross-env": "^4.0.0",
         "es6-promise": "^4.1.0",
         "koa": "^2.2.0",
